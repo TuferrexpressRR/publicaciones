@@ -12,7 +12,7 @@
 
 ## Contactanos 
 * Venta telefonica 
-**WHATSSAP +56965306983**
+* **WHATSSAP +56965306983**
 
 Somos una ferreteria, iniciando en el rubro pero rápida para adaptarse a los cambios, que aprovecha las tecnologías para ofrecer mas y mejor servicio a nuestros clientes.
 
