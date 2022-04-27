@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## TuferrexpressRR la ferreteria cercana al Vecino!
 
-You can use the [editor on GitHub](https://github.com/TuferrexpressRR/publicaciones/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Innovando para atender a las necesidades de nuestros clientes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Aportando lo mejor de productos y tecnologias para apoyar tus proyectos grandes o pequeños.
 
-### Markdown
+* Servicio de envios GRATIS en La Serena. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+##Ubicanos #AV. GUILLERMO UIRIKSEN 4141 LOCAL 3, EL MILAGRO
 
-# Header 1
-## Header 2
-### Header 3
+##Contactanos 
+* Venta telefonica 
+* WHATSSAP +56965306983
 
-- Bulleted
-- List
+Somos una ferreteria, iniciando en el rubro pero rápida para adaptarse a los cambios, que aprovecha las tecnologías para ofrecer mas y mejor servicio a nuestros clientes.
 
-1. Numbered
-2. List
+![Image](https://github.com/TuferrexpressRR/tuferrexpressrr.cl/blob/main/local.jpeg)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TuferrexpressRR/publicaciones/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Image](https://github.com/TuferrexpressRR/tuferrexpressrr.cl/blob/main/bandera.png)
